@@ -1,0 +1,6 @@
+name: "Github Action Template"
+description: "github-action 项目模板"
+author: "CaoMeiYouRen"
+runs:
+  using: "node12"
+  main: "dist/index.js"
