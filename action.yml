@@ -1,5 +1,5 @@
-name: "Github Action Template"
-description: "github-action 项目模板"
+name: "Custom Push Notice Action"
+description: "使用 ajax 从远程获取数据并推送"
 author: "CaoMeiYouRen"
 runs:
   using: "node12"
